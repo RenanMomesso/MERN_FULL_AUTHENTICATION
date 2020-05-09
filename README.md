@@ -28,3 +28,5 @@ EMAIL_FROM=
 JWT_RESET_PASSWORD=
 
 GOOGLE_CLIENT_ID=
+
+alot of portuguese comments to better understand
